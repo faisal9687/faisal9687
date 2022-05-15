@@ -5,7 +5,7 @@
 
 - 👨‍💻 A graduate project link [FRAP Platform](https://frap-platform.com/index.html)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,**
+- 💬 Ask me about **HTML,CSS,JavaScript,PHP,MySql**
 
 - 📫 How to contanct me **faisal99284@gmail.com**
 
